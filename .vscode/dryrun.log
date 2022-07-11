@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/alnmathw/Documents/Projects/object-oriented-programming/garbage-collector-c/Garbage-Collector-in-C'
+cc -Wall -Wextra -Werror -std=c11 -pedantic -ggdb -o src/heap src/main.c src/heap.c
+make: Leaving directory '/home/alnmathw/Documents/Projects/object-oriented-programming/garbage-collector-c/Garbage-Collector-in-C'
+ 
