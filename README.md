@@ -2,7 +2,7 @@
 Garbage Collectors (GC) serve as an automatic memory manager that allocates and releases memory in a program. This project is a simple implementation of a memory garbage collector written in C that allocates memory for letters in the English alphabet and frees those chunks of memory. 
 
 <center>
-    <img src = "public/assets/demo.jpg"/>
+    <img src = "public/assets/demo.JPG"/>
 </center> 
 
 ## Inspiration 
